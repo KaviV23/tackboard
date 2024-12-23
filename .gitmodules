@@ -1,6 +1,6 @@
 [submodule "tackboard-react"]
 	path = tackboard-react
-	url = .\\tackboard-react\\
+	url = https://github.com/KaviV23/tackboard-react
 [submodule "tackboard-springboot"]
 	path = tackboard-springboot
-	url = .\\tackboard-springboot\\
+	url = https://github.com/KaviV23/tackboard-springboot
