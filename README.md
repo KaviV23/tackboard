@@ -1,5 +1,5 @@
 # Tackboard (WiP)
-A simple To-do app made with React, Bootstrap, Springboot & PostgreSQL
+A React To-do app powered by Java Springboot & PostgreSQL
 
 ![Home Page](./images/screenshots/Todos.png)
 ![Login Page](./images/screenshots/Login.png)
