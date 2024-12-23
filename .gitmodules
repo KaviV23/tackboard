@@ -1,0 +1,6 @@
+[submodule "tackboard-react"]
+	path = tackboard-react
+	url = .\\tackboard-react\\
+[submodule "tackboard-springboot"]
+	path = tackboard-springboot
+	url = .\\tackboard-springboot\\
